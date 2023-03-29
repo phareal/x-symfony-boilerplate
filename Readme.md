@@ -70,7 +70,7 @@ The main technlogies i used to create this app are
   - [x] Choose the front (React/VueJs , NextJs , Nuxt js )
   - [ ] Choose the database (MySQL/MariaDB or PostgreSQL)
 - [ ] Design the application infrastructure and requirements
-  - [ ] Define the backend architecture (Setup docker and other tools MVC, Clean Code etc et )
+  - [x] Define the backend architecture (Setup docker and other tools MVC, Clean Code etc et )
     - [ ] Compare the different architecture existing for web application
     - [ ] Choose the right architecture/strucuture and implement it
   - [ ] Define the front-end architecture (install Jest, CSS in JS )
